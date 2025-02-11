@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Dang Quang, or Quang Ba Hai Dang (in Vietnamese). I am currently a postgraduate student at RMIT majoring in Artificial Intelligence. I am currently looking for a research or applied research position.
+My name is Dang Quang, or Quảng Bá Hải Đăng (in Vietnamese). I am currently a postgraduate student at RMIT majoring in Artificial Intelligence. I am currently looking for a research or applied research position.
 
 - 🔭 I’m working toward improving Image Generation evaluation methods for embedding complex information in its generative output.
 - 🌱 I’m currently learning Deep Learning (DL) and Machine Learning (ML) with my main focus on Computer Vision (CV) in generative applications.
